@@ -1,4 +1,9 @@
 # Weekly-Growth-Accounting-Chart
+
+![image](https://github.com/bhavyajha8/Weekly-Growth-Accounting-Chart/assets/105009730/81ecc63e-3c2d-4578-9e69-f9a9c821ab27)
+
+
+
 ## Insights on user growth:
 The number of new users varies each week, possibly due to factors like marketing or updates. The number of resurrected users stays mostly steady with occasional increases. But the number of churned users is consistently high, often more than the new and resurrected users combined, which is concerning. The quick ratio is quite unstable which is indicating inconsistent user retention and acquisition. The retention rate is consistently low, suggesting that many users are not staying engaged with the platform.
 
